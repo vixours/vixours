@@ -4,9 +4,7 @@
         src="<div align="center">
 <a href="https://www.instagram.com/vixcxoursss?igsh=YzRsajNhaXB4eGFy">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=87CEEB&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+SychyyDev;I+am+is+a+developer+bot+whatsapp⚡"
-            alt="Typing SVG"
-        />
+        src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&pause=1000&width=435&lines=Do+it+if+you+can+do+it.;Hi%2C+i'm+vixours!+)](https://git.io/typing-svg)"
     </a>
 </p>
 </div>"
