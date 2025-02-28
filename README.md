@@ -1,10 +1,8 @@
 <div align="center">
-<a href="https://www.instagram.com/vixcxoursss?igsh=YzRsajNhaXB4eGFy">
+<a href="https://youtube.com/@sychyy00">
     <img
-        src="<div align="center">
-<a href="https://www.instagram.com/vixcxoursss?igsh=YzRsajNhaXB4eGFy">
-    <img
-        src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&pause=1000&width=435&lines=Do+it+if+you+can+do+it.;Hi%2C+i'm+vixours!+)](https://git.io/typing-svg)"
+        src="https://readme-typing-svg.herokuapp.com?font=Helvetica&pause=1000&width=435&lines=Do+it+if+you+can+do+it.;Hi%2C+i'm+vixours"
+            alt="Typing SVG"
         />
     </a>
 </p>
