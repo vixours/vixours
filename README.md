@@ -1,5 +1,5 @@
 Hi,i'm Vixours!👋
-- 👨‍💻 LEARN PROGRAM
+- 👨‍💻 LEARNING PROGRAM
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
 - 📍 Indonesia
