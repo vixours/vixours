@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://youtube.com/@sychyy00">
+<a href="https://www.instagram.com/vixcxoursss?igsh=YzRsajNhaXB4eGFy">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=Helvetica&pause=1000&width=435&lines=Do+it+if+you+can+do+it.;Hi%2C+i'm+vixours"
             alt="Typing SVG"
