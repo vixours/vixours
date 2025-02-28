@@ -1,4 +1,7 @@
-Fix it with Vixours!👋
-- 💻 Beginner
+Hi,i'm Vixours!👋
+- 👨‍💻 LEARN PROGRAM
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
+- 📍 Indonesia
+- 👨‍🔧 ISTP
+- 🎮 PUBGM, MLBB, MCGG, SSM, CHESS
